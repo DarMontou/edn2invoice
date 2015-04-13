@@ -12,9 +12,15 @@ You will need [Leiningen][] 2.0.0 or above installed.
 To start a web server for the application, run:
 
     lein ring server
+    
+Then you can generate invoices for the clients via:
+
+http://localhost:3000/client/Bricks
+or 
+http://localhost:3000/client/Daphnes
 
 ## License
 
-Copyright © 2015 FIXME
+Just take it. It's yours.
 
 

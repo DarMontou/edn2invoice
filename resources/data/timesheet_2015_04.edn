@@ -11,9 +11,9 @@
                                          :Brick-Resource-Planner {}}
                                          }
 
-           :Ds-Nuts       {:id           2
+           :Daphnes       {:id           2
                           :rate         45
-                          :company-name "D's Nuts"
+                          :company-name "Daphne's Doughnut"
                           :contact-name "Daphne Waller"
                           :address      ["101 Rollingwood Dr." "Austin, TX 78746"]
                           :phone        "512 554-321"
